@@ -1,0 +1,87 @@
+.descrição {}
+
+header {
+    background-color: cornflowerblue;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: darkblue;
+
+}
+
+.título {
+    color: crimson
+}
+
+.ativ {
+    color: seagreen;
+}
+
+
+.loca {
+    color: greenyellow;
+}
+
+.atra {
+    color: violet;
+}
+
+/* img {background-color: aquamarine; width: 500px; height: 500px;} */
+
+.imag {
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    color: bisque;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+/* .ooo {
+    justify-content: center;
+    display: flex;
+}
+ */
+
+section {
+    width: 80%;
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.how {
+    display: flex;
+    justify-content: center;
+    width: 420px;
+    height: 200px;
+    
+
+}
+
+span {
+    background-color: yellow;
+}

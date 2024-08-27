@@ -1,0 +1,59 @@
+div {
+    color: red;
+    background-color: blue;
+
+    /* tamanho absoluto */
+    width: 200px;
+    /* tamanho relativo 50% */
+    /* width: 50%; */
+    
+    /* height: 300px; */
+
+
+}
+
+h1 {
+    color: rgb(38, 3, 61); font-size: 150px;
+background-color: aqua;
+
+
+
+
+}
+
+    .divPai2 {
+
+color: gray; background-color: crimson ;
+    }
+    .conteiner{ background-color: blue; 
+    width: 200px;
+    height: 200px;
+margin: 0px;
+border: 0px;
+
+    }
+   
+    .box{
+background-color: violet;
+height: 50px;    
+width: 50px;
+border: 20px;
+margin: ;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+h1 {
+    color: darkblue;
+}
+
+button { 
+
+
+    height: 100px;
+width: 100px;
+justify-content: center; display: flex;
+background-color: antiquewhite;
+padding: 10px;
+margin: 10px;
+border: 2px solid rgb(0, 0, 0); 
+}
+
+
+
+
+
+
+
+
+
+
+
+

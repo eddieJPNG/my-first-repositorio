@@ -1,0 +1,93 @@
+.box1 {
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+
+
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: limegreen;
+    margin: 10px;
+
+
+}
+
+.box3 {
+
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    margin: 10px;
+
+}
+
+.box4 {
+    width: 100px;
+
+    height: 100px;
+    background-color: purple;
+    margin: 10px;
+
+
+}
+
+.box5 {
+
+    width: 100px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    margin: 10px;
+
+
+}
+
+.box6 {
+
+    width: 100px;
+    height: 100px;
+    background-color: silver;
+    margin: 10px;
+
+
+
+}
+
+.box7 {
+    background-color: aqua;
+    height: 700px;
+    width: 700px;
+    margin: 15px;
+
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: bisque;
+    border: 25px;
+    color: brown;
+}
+.dog {
+    color: red;
+    background-color:
+}
+
+.cat {
+
+    color: blue;
+    background-color: 
+}
+
+.mouse {
+
+    color: green;
+    background-color: 
+    
+
+}

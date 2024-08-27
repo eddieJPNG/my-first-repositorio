@@ -1,0 +1,80 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    border: 1px solid;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+    background-color: black;
+    color: antiquewhite;
+
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 10px;
+    list-style: none;
+}
+
+
+
+section {
+    border: 1px solid;
+}
+
+.inicio {
+    display: flex;
+    height: 90vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.minhafoto img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+
+}
+
+.letter {
+    font-size: 30px;
+}
+
+
+
+span {
+    color: purple;
+}
+
+
+ul li {
+    
+}
+
+
+.sobremim {
+    height: 90vh;
+}
+
+
+.abilities p { 
+}
+
+
+
+
+
+
+
+
+
+
+
+

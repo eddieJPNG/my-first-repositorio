@@ -1,0 +1,69 @@
+JAVASCRIPT NO TERMINAL
+
+após o uso do 
+
+Let text = 'variavel'
+
+console.log (text)
+
+a abertura do terminal "Ctrl+aspas", se utiliza primeiramente "cd" para encontrar o 1° diretorio, para cada "pasta" ou "diretorio" para ser aberto e identificado pelo terminal deve-se utilizar o "cd (espaço) nome do local a ser acessado".
+
+ sendo a parte de ler o conteudo do "console.log" o uso do "Node (espaço) nome do arquivo"
+
+ com isso o terminal vai executar os "console.log" que houver lá.
+
+ na parte de por o "nome do arquivo" ou "destino", usar TAB (icone das setinhas left/right)
+
+ NOTA:
+
+ S C:\Users\CEPI_14\Provisoria EDDIE> cd
+PS C:\Users\CEPI_14\Provisoria EDDIE> node -v
+v20.16.0
+PS C:\Users\CEPI_14\Provisoria EDDIE> cd
+PS C:\Users\CEPI_14\Provisoria EDDIE>  cd .\JAVASCRIPT\
+PS C:\Users\CEPI_14\Provisoria EDDIE\JAVASCRIPT> node .\aula.js
+Edson Rocha da Silva
+PS C:\Users\CEPI_14\Provisoria EDDIE\JAVASCRIPT> node aula.js
+Edson Rocha da Silva
+PS C:\Users\CEPI_14\Provisoria EDDIE\JAVASCRIPT> node .\aula.js
+Edson Rocha da Silva
+17
+PS C:\Users\CEPI_14\Provisoria EDDIE\JAVASCRIPT> "
+
+(o uso do TAB  ajuda muito)
+
+ 
+
+https://meet.google.com/izf-xezi-nqe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
