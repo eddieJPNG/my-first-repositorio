@@ -1,0 +1,94 @@
+body {
+    color: white;
+  }
+  
+  header {
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+  }
+  header figure {
+    width: 20%;
+    background-color:rgb(135, 206, 235);;
+  }
+  
+  .headerRight {
+    width: 80%;
+    background-color:rgb(135, 206, 235);;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 10px;
+  }
+  nav ul li a {
+    text-decoration: none;
+  }
+  
+  nav ul li {
+    list-style: none;
+  }
+  footer {
+    justify-content: space-between;
+    display: flex;
+    border: 1px solid blue;
+    flex-direction: column;
+    text-align: center;
+    background-color:rgb(0, 0, 139);;
+  }
+  
+  section {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  article {
+    width: 300px;
+    height: 300px;
+    margin: 12px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color:rgb(65, 105, 225);;
+  }
+  
+  /* .temas {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  
+  .reper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  
+  .formulas {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  
+  .geografia {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  } */
+  */ img {
+    width: 400px;
+    height: 400px;
+  }
+  
+  header img {
+    width: 100px;
+    height: 100px;
+  }
+  
