@@ -1,3 +1,9 @@
+document.getElementById("#imagem").onclick = function() { var minhaImagem = document.getElementById("#imagem"); minhaImagem.classList.toggle("active");}
+
+
+
+
+
 
 
 

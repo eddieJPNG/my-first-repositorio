@@ -1,0 +1,48 @@
+
+
+/* .seca {
+    height: 300px;
+    width: 600px;
+justify-content: center;
+align-items: center
+}
+
+.vacina {
+    height: 300px;
+    width: 600px;
+    justify-content: center;
+align-items: center;
+
+
+} */
+
+
+article {
+    
+    display: flex;
+    justify-content: center;
+align-items: center;
+flex-direction: column;
+
+
+
+}
+
+article p {
+text-align: justify;
+}
+
+/* .escola {
+    height: 300px;
+    width: 300px;
+} */
+
+
+img {
+    height: 200px;
+    width: 300px;
+
+}
+
+
+
