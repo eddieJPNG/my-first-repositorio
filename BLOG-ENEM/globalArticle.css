@@ -28,6 +28,8 @@ flex-direction: column;
 
 }
 
+
+
 article p {
 text-align: justify;
 }
@@ -42,6 +44,10 @@ img {
     height: 200px;
     width: 300px;
 
+}
+
+footer {
+    width: 100%;
 }
 
 
