@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geopolítica</title>
+    <link rel="stylesheet" href="../global.css">
+    <link rel="stylesheet" href="../globalArticle.css">
+<body>
+    <header>
+        <figure>
+          <img
+            src="https://www.onlygfx.com/wp-content/uploads/2015/12/spiral-circle-logo-template-768x691.jpg"
+            alt="Logo"
+          />
+        </figure>
+        <div class="headerRight">
+          <h1 class="titulo">Vestibulando piauí</h1>
+          <nav>
+            <ul>
+              <li><a href="">Sobre o blog</a></li>
+              <li><a href="">Contatos</a></li>
+              <li><a href="#fim">fim da página</a></li>
+            </ul>
+          </nav>
+          </div>
+      </header>
+
+      <main>
+
+        <section>
+
+        <h1>O assunto mais cobrado em geografia em ciências humanas do 1º dia de prova do ENEM 2024!</h1>
+
+        
+        <p>
+          A prova de Ciências Humanas do ENEM é conhecida por abordar temas de grande relevância social e ambiental, e a Geografia desempenha um papel crucial nessa avaliação. Em 2024, um dos assuntos mais cobrados deve ser o impacto das mudanças climáticas e suas consequências para o meio ambiente e a sociedade. Este tema engloba questões como aquecimento global, desastres naturais, políticas de sustentabilidade e a relação entre o homem e a natureza. Neste artigo, vamos explorar os aspectos mais importantes desse assunto, oferecendo uma análise detalhada e dicas de estudo para que os candidatos possam se preparar de forma eficaz para o exame. Vamos mergulhar nessa jornada geográfica e garantir uma preparação completa para o ENEM! 📚✍️
+
+Pronto para transformar suas ideias em aplicações incríveis! 🚀
+        </p>
+      
+
+      <article>
+<h1>Geopolítica no ENEM</h1>
+<img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/02/o-que-e-geopolitica.jpg?w=1000" alt="Globo com pinos">
+<p>
+  A geopolítica é uma área fascinante que aborda a influência da geografia na política internacional e nas relações entre os estados. No contexto do ENEM (Exame Nacional do Ensino Médio), esse tema é recorrente, uma vez que o exame busca avaliar a compreensão dos alunos sobre questões contemporâneas e suas implicações globais. Vamos explorar alguns conceitos fundamentais de geopolítica que podem aparecer no ENEM.
+</p>
+
+<h1>O que é Geopolítica?</h1>
+
+<p>
+  Geopolítica é o estudo da influência da geografia (humana e física) na política e nas relações internacionais. Envolve a análise de fatores como localização geográfica, recursos naturais, fronteiras, populações e infraestrutura, e como eles afetam o poder e as interações entre nações.
+</p>
+
+<h1>Principais Temas de Geopolítica no ENEM</h1>
+
+      <h1><strong>1º Globalização:</strong></h1>
+
+      <p>
+        A globalização é o processo de intensificação das relações econômicas, culturais e políticas entre os países. No ENEM, é comum encontrar questões que discutem os impactos da globalização, tanto positivos quanto negativos, como a disseminação cultural, o aumento do comércio internacional e as desigualdades econômicas.
+      </p>
+
+<h1><strong>2º Conflitos e guerras:</strong></h1>
+<p>
+  Questões sobre conflitos armados, guerras civis e intervenções militares são frequentes. O ENEM pode explorar temas como as causas dos conflitos, suas consequências para a população e o papel das organizações internacionais na mediação e resolução de conflitos.
+</p>
+
+<h1><strong>3º Organizações Internacionais:</strong></h1>
+<p>
+  Instituições como a ONU (Organização das Nações Unidas), OTAN (Organização do Tratado do Atlântico Norte) e OMC (Organização Mundial do Comércio) são importantes na manutenção da paz e na regulação das relações internacionais. O exame pode abordar o papel dessas organizações na geopolítica moderna.
+</p>
+<h1><strong>4º Recursos Naturais e Energia:</strong></h1>
+<p>
+  A disputa por recursos naturais, como petróleo, gás e água, é um tema relevante. Questões sobre a distribuição desses recursos e suas implicações econômicas e políticas são comuns.
+</p>
+<h1><strong>5º Blocos Econômicos:</strong></h1>
+<p>
+  Blocos como a União Europeia (UE), o Mercosul e a ASEAN (Associação das Nações do Sudeste Asiático) são exemplos de integração econômica regional. O ENEM pode perguntar sobre os objetivos desses blocos, suas políticas e os desafios que enfrentam.
+</p>
+
+<h1><strong>Dicas de Estudo para o ENEM</strong></h1>
+
+  <p>
+    <strong>Atualidades:</strong> Mantenha-se atualizado sobre eventos globais, como conflitos, acordos internacionais e crises econômicas. Ler notícias e análises de fontes confiáveis ajuda a contextualizar o conhecimento teórico.
+  </p>
+  <p>
+    <strong>Mapas e Gráficos:</strong> Pratique a leitura e interpretação de mapas, gráficos e tabelas. Esses elementos são frequentemente utilizados nas questões para ilustrar dados e tendências geopolíticas.
+  </p>
+  <p>
+    <strong>Revisão de Conceitos:</strong> Revise conceitos-chave de geopolítica e entenda suas aplicações práticas. Focar em temas recorrentes nas provas anteriores pode ser útil.
+  </p>
+  <p>
+    <strong>Simulados:</strong> Realize simulados e exercícios específicos de geopolítica. Isso ajuda a familiarizar-se com o estilo das questões e a gerir melhor o tempo durante a prova.
+  </p>
+  
+  <h1>
+    Conclusão
+  </h1>
+
+  <p>
+    A geopolítica desempenha um papel crucial na compreensão dos eventos globais e suas interações complexas. No contexto do ENEM, dominar os conceitos de geopolítica permite não apenas uma melhor performance na prova, mas também um entendimento mais profundo do mundo ao nosso redor. Ao estudar temas como globalização, conflitos, organizações internacionais, recursos naturais e blocos econômicos, os estudantes são capazes de analisar e interpretar questões contemporâneas com um olhar crítico e informado.
+
+Manter-se atualizado sobre atualidades, praticar a leitura de mapas e gráficos, revisar conceitos-chave e realizar simulados são estratégias essenciais para se preparar adequadamente. Com dedicação e estudo focado, é possível navegar pelos desafios do ENEM e obter um desempenho de destaque. Boa sorte a todos os candidatos!
+  </p>
+
+</article>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      </section>
+    
+    </main>
+  
+    
+</body>
+
+</html>
+
+
+
