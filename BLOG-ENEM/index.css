@@ -1,31 +1,29 @@
 body {
-  color:black;
-  background-color :white;
+  color: black;
+  background-color: white;
 }
 
 header {
-  background-color:#00183e;
+  background-color: #00183e;
   display: flex;
   justify-content: space-between;
-  color:white ;
+  color: white;
 }
 header figure {
   width: 20%;
-  background-color:black;
+  background-color: black;
 }
 
 .headerRight {
   width: 80%;
-  background-color:black;
+  background-color: black;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
-
 }
 
-section button a  {
+section button a {
   text-decoration: none;
 }
 
@@ -47,18 +45,42 @@ footer {
   border: 1px solid bebebe;
   flex-direction: column;
   text-align: center;
-  background-color:#bebebe;
+  background-color: #bebebe;
   width: 100%;
   bottom: 0;
   left: 0;
   padding: 10px 0;
+}
 
+.comment-section {
+  width: 100%;
+  margin: 0 auto;
+background-color: #dddd;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.comment {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+.comment p {
+  margin: 5px 0;
+  
+}
+.comment strong {
+  font-weight: bold;
+  border: 1px black solid;
 }
 
 body {
-  font-family: 'poppins', sans-serif;
+  font-family: "poppins", sans-serif;
 }
-
 
 section {
   justify-content: center;
@@ -73,11 +95,9 @@ article {
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  background-color:white;
-text-align: center;
-
+  background-color: white;
+  text-align: center;
 }
-
 
 /* .temas {
   display: flex;
@@ -102,14 +122,14 @@ text-align: center;
   justify-content: space-between;
   flex-direction: column;
 } */
-*/ img  {
+*/ img {
   width: 400px;
   height: 400px;
   border-radius: 30px;
 }
 
 img:hover {
-  transform: scale(1.10);
+  transform: scale(1.1);
 }
 
 header img {
@@ -117,17 +137,12 @@ header img {
   height: 100px;
 }
 
-
-
-
 .filmes {
   height: 300px;
 }
 
-
-
-.active { 
+.active {
   height: 600px;
   width: 600px;
-  border-radius:30px;
+  border-radius: 30px;
 }
