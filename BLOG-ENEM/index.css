@@ -3,12 +3,31 @@ body {
   background-color: white;
 }
 
+main a {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color:  #0e00d4;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+main a:hover {
+  background-color: cyan;
+  transform: scale(1.05);
+}
+
+
 header {
   background-color: #00183e;
   display: flex;
   justify-content: space-between;
   color: white;
 }
+
 header figure {
   width: 20%;
   background-color: black;
@@ -32,6 +51,7 @@ nav ul {
   gap: 10px;
   text-decoration: none;
 }
+
 nav ul li a {
   text-decoration: none;
 }
@@ -39,6 +59,7 @@ nav ul li a {
 nav ul li {
   list-style: none;
 }
+
 footer {
   justify-content: space-between;
   display: flex;
@@ -55,24 +76,27 @@ footer {
 .comment-section {
   width: 100%;
   margin: 0 auto;
-background-color: #dddd;
+  background-color: #dddd;
   display: flex;
   justify-content: center;
   flex-direction: column;
   text-align: center;
 }
+
 .comment {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  
+
 }
+
 .comment p {
   margin: 5px 0;
-  
+
 }
+
 .comment strong {
   font-weight: bold;
   border: 1px black solid;
